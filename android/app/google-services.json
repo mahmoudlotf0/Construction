@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673922074844",
+    "project_id": "construction-app-eaf46",
+    "storage_bucket": "construction-app-eaf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673922074844:android:b307384cc1ae187f260c19",
+        "android_client_info": {
+          "package_name": "com.example.construction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673922074844-oj50dmpmbfmvdi4lk416g026getpebbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.construction",
+            "certificate_hash": "47728b82c460d205a23f2de1a7a7bc29d909eaa8"
+          }
+        },
+        {
+          "client_id": "673922074844-spqf2mm0ms4j9l4gbq31n22323l4o37d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCO4GoGFzjczZlgzhRnHMFHqeBpRoRCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673922074844-spqf2mm0ms4j9l4gbq31n22323l4o37d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
